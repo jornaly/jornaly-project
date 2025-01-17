@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "montserrat-normal";
+  src: url("/fonts/Montserrat.woff2") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "montserrat-bold";
+  src: url("/fonts/Montserrat.woff2") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+* {
+  font-family: "montserrat-normal", sans-serif;
+}
+
+.montserrat-bold {
+  font-family: "montserrat-bold", sans-serif;
+}
