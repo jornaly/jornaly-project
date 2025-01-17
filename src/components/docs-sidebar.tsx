@@ -103,7 +103,7 @@ export function DocsSidebar() {
                           className="first-letter:capitalize"
                         >
                           <a
-                            href={`https://tqyxuwcykkgzhoqaepyp.supabase.co/storage/v1/object/public/documents/${item.name}`}
+                            href={`https://emgcxawtmiaezugrqzuk.supabase.co/storage/v1/object/public/documents/${item.name}`}
                             target="_blank"
                           >
                             {item.name}
